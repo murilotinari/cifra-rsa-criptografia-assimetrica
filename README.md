@@ -1,5 +1,3 @@
-# cifra-rsa-criptografia-assimetrica
-
 ## 📸 Evidências
 
 Aqui estão algumas capturas de tela e exemplos de execução que demonstram o funcionamento do projeto:
