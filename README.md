@@ -6,15 +6,17 @@ Aqui estão algumas capturas de tela e exemplos de execução que demonstram o f
 
 - **🔐 Criptografia e Descriptografia**: Abaixo você pode ver como o cliente envia uma mensagem criptografada ao servidor, que a descriptografa corretamente.
   
-  ![Exemplo de Criptografia](path-to-your-image/encryption_example.png)
+ ![image](https://github.com/user-attachments/assets/59bd90f3-e93f-4191-8598-13ef360a51e7)
 
-- **💻 Execução do Servidor**: Captura de tela do servidor em funcionamento, mostrando a geração das chaves RSA e a recepção da mensagem.
+- **💻 Execução do Servidor**: Captura de tela do servidor em funcionamento, mostrando a geração das chaves RSA, a recepção da mensagem e a resposta do servidor enviada ao cliente após a descriptografia da mensagem.
   
-  ![Execução do Servidor](path-to-your-image/server_running.png)
+  ![Comunicacao Server](https://github.com/user-attachments/assets/5ad8bc8a-13d4-4b46-a55a-15438e54384f)
 
-- **📨 Resposta ao Cliente**: Exemplo de resposta do servidor enviada ao cliente após a descriptografia da mensagem.
 
-  ![Resposta ao Cliente](path-to-your-image/client_response.png)
+- **📨 Rastreio Wireshark**: A comunicação TCP rastreada através da ferramenta Wireshark.
+
+  ![image](https://github.com/user-attachments/assets/571adf07-b38c-4dac-a146-91e75fd8f9b6)
+
 
 ---
 
