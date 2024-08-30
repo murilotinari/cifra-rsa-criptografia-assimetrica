@@ -27,13 +27,7 @@ O código do cliente é responsável por:
 - **📤 Enviar a mensagem criptografada** ao servidor e aguardar uma resposta.
 - **📨 Exibir a resposta** do servidor, que contém a mensagem descriptografada.
 
-### 📝 Código do Cliente
 
-```python
-# Seu código do cliente aqui
-```
-
----
 
 ## 🖥️ Servidor
 
@@ -44,18 +38,12 @@ O código do servidor é responsável por:
 - **📥 Receber a mensagem criptografada** do cliente e descriptografá-la usando a chave privada.
 - **📨 Enviar uma resposta** ao cliente confirmando a recepção e a descriptografia da mensagem.
 
-### 📝 Código do Servidor
-
-```python
-# Seu código do servidor aqui
-```
-
----
 
 ## 👥 Integrantes
 
 Este projeto foi desenvolvido por:
 
-- **👨‍💻 Nome do Integrante 1**: [GitHub](https://github.com/seuusuario1)
-- **👩‍💻 Nome do Integrante 2**: [GitHub](https://github.com/seuusuario2)
-- **👨‍💻 Nome do Integrante 3**: [GitHub](https://github.com/seuusuario3)
+- **👨‍💻 André Vitor Pereira Cini**: 
+- **👩‍💻 Gustavo Peterlini de Oliveira**
+- **👨‍💻 Lucas Leite Vaz de Lima**
+- **👨‍💻 Murilo Tinari Abdalla**
