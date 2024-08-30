@@ -4,7 +4,7 @@ Aqui estão algumas capturas de tela e exemplos de execução que demonstram o f
 
 - **🔐 Criptografia e Descriptografia**: Abaixo você pode ver como o cliente envia uma mensagem criptografada ao servidor, que a descriptografa corretamente.
   
- ![image](https://github.com/user-attachments/assets/59bd90f3-e93f-4191-8598-13ef360a51e7)
+  ![image](https://github.com/user-attachments/assets/59bd90f3-e93f-4191-8598-13ef360a51e7)
 
 - **💻 Execução do Servidor**: Captura de tela do servidor em funcionamento, mostrando a geração das chaves RSA, a recepção da mensagem e a resposta do servidor enviada ao cliente após a descriptografia da mensagem.
   
